@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="blackjk.controls.FPSCounter"/>
+<classEntry path="blackjk.controls.MemoryLabel"/>
+<classEntry path="blackjk.controls.MessageWindow"/>
+<classEntry path="blackjk.controls.SuperTitleWindow"/>
+<classEntry path="blackjk.crypto.Cryptor"/>
+<classEntry path="blackjk.math.Line"/>
+<classEntry path="blackjk.math.MathTools"/>
+<classEntry path="blackjk.math.Matrix2d"/>
+<classEntry path="blackjk.math.Matrix3d"/>
+<classEntry path="blackjk.math.Point2"/>
+<classEntry path="blackjk.math.Point3"/>
+<classEntry path="blackjk.math.Vector2"/>
+<classEntry path="blackjk.math.Vector3"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
